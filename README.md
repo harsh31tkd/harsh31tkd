@@ -2,7 +2,8 @@
 <h3 align="center">Harsh | Developer | A passionate frontend developer from India</h3>
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Hello World Coding" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello Hacker Style" width="400" height="300"/>
+
 
 
 
