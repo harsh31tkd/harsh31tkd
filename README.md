@@ -3,12 +3,6 @@
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello Hacker Style" width="400" height="300"/>
-
-
-
-
-
-
 </p> 
 
 
@@ -17,7 +11,8 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **MERN Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML | CSS | JavaScript | React | Android Studio**
+- ⚡ Exploring **Next.js, React, Express, and MongoDB** 
+- 💬 Ask me about **HTML | CSS | JavaScript | React | Android Studio| TailwindCSS**
 - 📫 How to reach me **harsh31tkd@gmail.com**
 
 ---
