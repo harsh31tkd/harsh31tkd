@@ -1,50 +1,55 @@
-# Hi 👋, I'm Harsh  
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Harsh</h1>
+<h3 align="center">Harsh | Developer | A passionate frontend developer from India</h3>
 
-Harsh | Developer | A Passionate Developer from India  
+<p align="center"> 
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Hello World Coding" width="400" height="300"/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
----
 
-## 🙋‍♂️ About Me  
-- 🔭 I’m currently working on **Android Apps & AI Projects**  
-- 🌱 I’m currently learning **Machine Learning | Deep Learning | AR in Unity**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Java | Python | React | Android | AI**  
-- 📫 Reach me at **your-email@example.com**  
-- ⚡ Fun fact: *I turn ☕ into code*  
+
+
+</p> 
+
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+### 🚀 About Me
+- 🌱 I’m currently learning **MERN Stack Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML | CSS | JavaScript | React | Android Studio**
+- 📫 How to reach me **harsh31tkd@gmail.com**
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+---
 
-### ⚙️ Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)  
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-harsh-084598371/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/harsh____tkd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/harsh31tkd/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:harsh31tkdgmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+  </a>
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+</p>
 
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+---
 
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+### 🛠 Tech Stack & Tools  
+
+| **Frontend** | **Backend** |
+|-------------|------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
+
+| **Programming Languages** | **Tools & Platforms** |
+|---------------------------|----------------------|
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=black&style=for-the-badge)| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0175C2?logo=androidstudio&logoColor=white&style=for-the-badge)| 
+
 
 ---
 
@@ -54,31 +59,16 @@ Harsh | Developer | A Passionate Developer from India
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31tkd&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harsh31tkd&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=harsh31tkd&theme=radical&hide_border=true) 
+
+---
+
+## 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh31tkd&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=harsh31tkd&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
-
----
-
-## 📈 GitHub Activity Graph  
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh31tkd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
-## 📌 Pinned Projects  
-
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)  
-
----
-
-⭐️ From [harsh31tkd](https://github.com/harsh31tkd)  
