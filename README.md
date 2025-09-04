@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Harsh</h1>
-<h3 align="center">Harsh | Developer | A passionate frontend developer from India</h3>
+<h3 align="center"> Developer | A passionate frontend developer from India</h3>
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello Hacker Style" width="400" height="300"/>
